@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+
+/*------------------------------------------ Colors */
+.nav-item a {
+    color: whitesmoke;
+}
+
+
+
+/*------------------------------------------ Margins */
+
+
+h1,
+h2,
+h3,
+h4 {
+    margin: 0;
+}
+ 
+
+
+
+/*------------------------------------------ Heading */
+header {
+    margin: 0;
+}
+
+.heading {
+    color: whitesmoke;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+#home {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)), url(../images/dogsgrass.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-color: var(--black);
+}
+
+.logo {
+    background: url("../images/waggytaillodgelogo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 100px;
+    margin: 25px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out; 
+}
+
+.text-center {
+    text-align: center;
+}
+
+
+nav {
+    margin-top: 50px;
+    font-size: 14px;
+    text-align: right;
+}
+
+.container {
+    margin-right: 30px;
+    margin-left: 30px;
+}
