@@ -1,5 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
 
+*{
+    margin:0;
+    padding: 0;
+    border: 0;
+    }
+    
+    body{
+      font-family: EB Garamond;
+      color: black;
+        }
+
 /*------------------------------------------ Colors */
 .nav-item a {
     color: whitesmoke;
@@ -25,10 +36,14 @@ header {
     margin: 0;
 }
 
+h1{
+    text-transform: uppercase;
+}
+
 .heading {
     color: whitesmoke;
-    margin-top: 100px;
-    margin-bottom: 50px;
+    margin-top: 120px;
+    margin-bottom: 0px;
 }
 
 #home {
@@ -36,7 +51,7 @@ header {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 60vh;
+    height: 40vh;
     background-color: var(--black);
 }
 
@@ -85,12 +100,10 @@ nav > a:hover {
 }
 
 /*------------------------------------------ Section */
- .title {
-    text-transform: uppercase;
- }
+
 
  .section {
-    padding: 30px;
+    padding: 10px;
  }
 
 /*------------------------------------------ About Us */
@@ -99,6 +112,7 @@ nav > a:hover {
     margin-left: 20px;
     margin-bottom: 10px;
     text-align: center;
+    text-transform: uppercase;
 }
   
   #owners {
@@ -106,6 +120,11 @@ nav > a:hover {
     background-position: left;
     background-repeat: no-repeat;
   }
+
+  p {
+    margin-top: 10px;
+  }
+  
 /*------------------------------------------ Footer */
 
  footer {
