@@ -36,7 +36,7 @@ header {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 100vh;
+    height: 60vh;
     background-color: var(--black);
 }
 
@@ -59,11 +59,60 @@ header {
 
 nav {
     margin-top: 50px;
-    font-size: 14px;
+    font-size: 20px;
     text-align: right;
+    
+}
+
+.nav-item a {
+    text-decoration: none;
+}
+
+nav > a:hover {
+	color: silver;
+}
+
+.button {
+    font-size: 20px;
 }
 
 .container {
-    margin-right: 30px;
-    margin-left: 30px;
+    margin: auto;
+}
+
+/*------------------------------------------ Section */
+ .title {
+    text-transform: uppercase;
+ }
+
+
+
+
+
+/*------------------------------------------ Footer */
+
+ footer {
+	background-color: grey;
+	padding: 1em;
+	text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+	z-index: 3;
+}
+
+footer > span {
+	color: silver;
+}
+
+footer > a {
+	color:whitesmoke;
+	text-decoration: none;
+	padding: 0 15px;
+	font-size: 0.8rem;
+}
+
+footer > p {
+	color: silver;
 }
