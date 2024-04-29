@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
 
-*{
+* {
     margin:0;
     padding: 0;
     border: 0;
@@ -9,6 +9,7 @@
     body{
       font-family: EB Garamond;
       color: whitesmoke;
+      font-size: 16px;
         }
 
 /*------------------------------------------ Colors */
@@ -117,6 +118,7 @@ nav > a:hover {
     margin-bottom: 10px;
     text-align: center;
     text-transform: uppercase;
+    margin-right: 20px;
 }
   
   #owners {
