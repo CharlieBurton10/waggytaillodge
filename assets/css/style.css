@@ -8,7 +8,7 @@
     
     body{
       font-family: EB Garamond;
-      color: black;
+      color: whitesmoke;
         }
 
 /*------------------------------------------ Colors */
@@ -40,18 +40,14 @@ h1{
     text-transform: uppercase;
 }
 
-.heading {
-    color: whitesmoke;
-    margin-top: 120px;
-    margin-bottom: 0px;
-}
+
 
 #home {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)), url(../images/dogsgrass.jpg);
+    background-image: url(../images/dogsgrass.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 40vh;
+    border: none;
     background-color: var(--black);
 }
 
@@ -101,9 +97,17 @@ nav > a:hover {
 
 /*------------------------------------------ Section */
 
+.heading {
+    color:  whitesmoke;
+    margin-bottom: 20px;
+    background-color: #38450f;
+    background-size: cover;
+    width: 100%;
+}
+
 
  .section {
-    padding: 10px;
+    background-color: #7d875d;
  }
 
 /*------------------------------------------ About Us */
@@ -133,26 +137,30 @@ nav > a:hover {
     float: none;
   }
   
-  .facility-p {
+  .align-p {
 text-align: center;
   }
 
 /*------------------------------------------ Testimonials */
 
-  
+.test {
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 2px;
+} 
 
 
 /*------------------------------------------ Footer */
 
 footer {
-    background-color: grey;
+    background-color: #38450f;
     padding: 1em;
     text-align: center;
     width: 100%;
 }
 
 footer > span {
-	color: silver;
+	color: whitesmoke;
 }
 
 footer > a {
@@ -163,5 +171,17 @@ footer > a {
 }
 
 footer > p {
-	color: silver;
+	color: whitesmoke;
+    margin-top: 10px;
+}
+
+/* ----------------------------------------Media */
+
+@media(min-width: 992px) {
+    .center-form {
+        padding-top: 30px;
+        min-height: 240px;
+        margin: 0 auto;
+        max-width: 50%;
+    }
 }
