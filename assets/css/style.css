@@ -127,7 +127,13 @@ nav > a:hover {
 
 /*------------------------------------------ Carousel */
 
-
+.carousel-item {
+    height: 100%;
+    weight: 100%;
+    transition: transform 2s ease, opacity .5s ease-out;
+  }
+  
+  
   
 /*------------------------------------------ Footer */
 
@@ -136,10 +142,6 @@ nav > a:hover {
 	padding: 1em;
 	text-align: center;
     width: 100%;
-    position: fixed;
-    bottom: 0;
-    right: 0;
-	z-index: 3;
 }
 
 footer > span {
