@@ -80,9 +80,21 @@
                       <input type="text" class="form-control" id="validationServer02">
                     </div>
                     <div class="col-md-4 mb-1">
-                        <label for="validationServer02">3rd Dog Name</label>
+                        <label for="validationServer03">3rd Dog Name</label>
                         <input type="text" class="form-control" id="validationServer03">
                       </div>
+                  </div>
+                  <div class="form-row align-p date">
+                    <div class="col-md-3 md-1"></div>
+                    <div class="col-md-3 mb-1">
+                        <label for="arrival">Arrival:  </label>
+                        <input type="date" id="arrival" name="arrival" required>
+                    </div>
+                    <div class="col-md-3 mb-1">
+                        <label for="departure">Departure:  </label>
+                        <input type="date" id="departure" name="departure" required>
+                    </div>
+                    <div class="col-md-3 md-1"></div>
                   </div>
                   <div class="row">
                     <div class="col">
@@ -95,56 +107,26 @@
                         <input type="email" class="form-control" id="email" placeholder="name@example.com" required>
                     </div>
                     <div class="col-md-6 mb-3">
-                      <label for="validationServer02">Phone Number</label>
-                      <input type="number" class="form-control" id="validationServer02" required>
+                      <label for="phonenumber">Phone Number</label>
+                      <input type="number" class="form-control" id="phonenumber" required>
                     </div>
                   </div>
                   <div class="form-row">
-                    <div class="col-md-6 mb-3">
-                      <label for="validationServer03">City</label>
-                      <input type="text" class="form-control is-invalid" id="validationServer03" aria-describedby="validationServer03Feedback" required>
-                      <div id="validationServer03Feedback" class="invalid-feedback">
-                        Please provide a valid city.
-                      </div>
+                    <div class="col-md-9 mb-3">
+                      <label for="address">Address</label>
+                      <input type="text" class="form-control" id="address" required>
                     </div>
                     <div class="col-md-3 mb-3">
-                      <label for="validationServer04">State</label>
-                      <select class="custom-select is-invalid" id="validationServer04" aria-describedby="validationServer04Feedback" required>
-                        <option selected disabled value="">Choose...</option>
-                        <option>...</option>
-                      </select>
-                      <div id="validationServer04Feedback" class="invalid-feedback">
-                        Please select a valid state.
-                      </div>
-                    </div>
-                    <div class="col-md-3 mb-3">
-                      <label for="validationServer05">Zip</label>
-                      <input type="text" class="form-control is-invalid" id="validationServer05" aria-describedby="validationServer05Feedback" required>
-                      <div id="validationServer05Feedback" class="invalid-feedback">
-                        Please provide a valid zip.
-                      </div>
+                      <label for="postcode">Postcode</label>
+                      <input type="text" class="form-control" id="postcode" required>
                     </div>
                   </div>
-                  <div class="form-row align-p">
-                    <div class="col-md-6 mb-3">
-                        <label for="arrival">Arrival:  </label>
-                        <input type="date" id="arrival" name="arrival" required>
-                    </div>
-                    <div class="col-md-6 mb-3">
-                        <label for="departure">Departure:  </label>
-                        <input type="date" id="departure" name="departure" required>
-                    </div>
-                  </div>
-                
                 <div class="form-group">
                   <div class="form-check">
-                    <input class="form-check-input is-invalid" type="checkbox" value="" id="invalidCheck3" aria-describedby="invalidCheck3Feedback" required>
+                    <input class="form-check-input" type="checkbox" value="" id="invalidCheck3" required>
                     <label class="form-check-label" for="invalidCheck3">
-                      Agree to terms and conditions
+                      Please confirm you have checked your details.
                     </label>
-                    <div  id="invalidCheck3Feedback" class="invalid-feedback">
-                      You must agree before submitting.
-                    </div>
                   </div>
                 </div>
                 <button class="btn btn-primary" type="submit">Submit form</button>
