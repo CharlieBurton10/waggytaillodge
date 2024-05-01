@@ -29,7 +29,9 @@ h4 {
     margin: 0;
 }
  
-
+.margin-bottom {
+    margin-bottom: 20px;
+}
 
 
 /*------------------------------------------ Heading */
@@ -40,8 +42,6 @@ header {
 h1{
     text-transform: uppercase;
 }
-
-
 
 #home {
     background-image: url(../images/dogsgrass.jpg);
@@ -190,6 +190,11 @@ ul {
     list-style: none;
     margin: 0;
     padding: 0;
+}
+
+
+.offer-icon {
+    text-align: center;
 }
 
 /*------------------------------------------ Footer */
