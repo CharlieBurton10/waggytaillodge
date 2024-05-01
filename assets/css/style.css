@@ -205,10 +205,17 @@ ul {
     border-color: #38450f;
 }
 
-.faq-p {
+.dropdown-toggle {
     background-color: #7d875d;
     color: whitesmoke;
-    padding: none;
+}
+
+.faq-p {
+    background-color: whitesmoke;
+}
+
+.text-muted {
+    color: #38450f !important;
 }
 
 
