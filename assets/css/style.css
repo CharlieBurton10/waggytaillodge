@@ -131,7 +131,8 @@ nav > a:hover {
   }
 
   .about-p {
-    margin-top: 10px;
+    margin-top: 20px;
+    padding-top: 10px;
   }
 
 /*------------------------------------------ Our Facility */
@@ -175,6 +176,22 @@ text-align: center;
     margin-top: 2px;
 } 
 
+/*------------------------------------------ Our services */
+
+
+
+
+
+
+
+/*------------------------------------------ Prices */
+
+.prices .list-group-item { 
+    background-color: #7d875d;
+    color: whitesmoke;
+    text-align: center;
+    border: none;
+}
 
 /*------------------------------------------ Footer */
 
