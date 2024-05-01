@@ -200,18 +200,15 @@ ul {
 /*------------------------------------------ Contact */
 
 .faq {
-    background-color: #38450f;
-    margin-bottom: 10px;
-    border-color: #38450f;
+    background-color: #38450f !important;
+    margin-bottom: 55px;
+    border-color: #38450f !important;
 }
 
-.dropdown-toggle {
-    background-color: #7d875d;
-    color: whitesmoke;
-}
 
 .faq-p {
     background-color: whitesmoke;
+    text-align: center;
 }
 
 .text-muted {
