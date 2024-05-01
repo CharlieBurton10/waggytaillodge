@@ -197,6 +197,21 @@ ul {
     text-align: center;
 }
 
+/*------------------------------------------ Contact */
+
+.faq {
+    background-color: #38450f;
+    margin-bottom: 10px;
+    border-color: #38450f;
+}
+
+.faq-p {
+    background-color: #7d875d;
+    color: whitesmoke;
+    padding: none;
+}
+
+
 /*------------------------------------------ Footer */
 
 footer {
