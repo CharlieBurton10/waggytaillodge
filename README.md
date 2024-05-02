@@ -70,24 +70,26 @@ Waggy Tail Lodge have decide to expand their customer base with a website. They 
 
 * To be able to view the site on a range of device sizes.
 * To make it easy for potential customers to find out what services they offer.
-* To make it clear for current customers on updated prices 
+* To make it clear for current customers on updated prices.
 * To allow customers to book online, to make the owners time more efficient.
+* To make it user friendly and for all ages.
 
 #### First Time Visitor Goals
 
-* I want to find out what is Bully Book Club and how I can take part.
+* I want to find out what Waggy Tail Lodge offers.
 * I want to be able to navigate the site easily to find information.
-* I want to be able to find their Instagram profile.
+* I want to be able to find their social media pages.
+* I want to be able to book a trial.
+* I want to be able to read about current customers reviews.
 
 #### Returning Visitor Goals
 
-* I want to find up to date information on what the book club is reading.
-* I want to be able to easily contact the book club with questions I might have.
+* I want to book online instead of phoning Waggy Tail Lodge - to help with ease.
+* I want to find up-to-date prices and special offers. 
+* I want to be able to easily follow them on social media pages to get dog updates.
 
 
 ## Design
-
-👩🏻‍💻 View an example of a completed design section [here](https://github.com/kera-cudmore/earth-day-hackathon-2022#Design)
 
 ### Colour Scheme
 
