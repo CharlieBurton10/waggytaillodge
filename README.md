@@ -97,17 +97,15 @@ Waggy Tail Lodge have decide to expand their customer base with a website. They 
 
 The website uses a palette of shades of green, to imitate the grass that the dogs spend alot of time on. The colour palette was created using the [Coolors](https://coolors.co/) website.
 
-
-
 ### Typography
 
 I have used EB Garamond from Google Fonts for this website, as it connected with the Logo. It is a serif font.
 
-
+![EB Garamond Font](docs/font.png)
 
 ### Imagery
 
-Use this section to explain what sort of imagery you plan to use through your site.
+All imagery used within the site has been chosen to showcase the Waggy Tail Lodge. I created a new logo for the owners, as they asked for it to have a more modern look.
 
 ### Wireframes
 
