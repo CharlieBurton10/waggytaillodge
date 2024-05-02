@@ -93,21 +93,17 @@ Waggy Tail Lodge have decide to expand their customer base with a website. They 
 
 ### Colour Scheme
 
-Add all information about your colour scheme for your site here. You can explain why you choose the colours you did?
+![Waggy Tail Lodge Website Colour Palette](docs/colourpalette.png)
 
-I like to include a palette of the colour scheme here, my favourite site for creating a colour palette is [coolors](https://coolors.co/), but there are lots of other sites that also do the same thing, like [ColorSpace](https://mycolor.space/?hex=%23F5F5F5&sub=1), [Muzli Colors](https://colors.muz.li/), [Adobe Colour Wheel](https://color.adobe.com/create/color-wheel) and [Canva](https://www.canva.com/colors/color-palette-generator/) to name a few.
+The website uses a palette of shades of green, to imitate the grass that the dogs spend alot of time on. The colour palette was created using the [Coolors](https://coolors.co/) website.
+
+
 
 ### Typography
 
-If you've imported fonts to use in your project, add some information about them here. You can include information like:
+I have used EB Garamond from Google Fonts for this website, as it connected with the Logo. It is a serif font.
 
-Why did you choose the font you have?
-Is this an accessibly friendly font?
-What weights have you included?
 
-I also like to include an image of the fonts chosen as a reference.
-
-[Google Fonts](https://fonts.google.com/) is a popular choice for importing fonts to use in your project, as it doesn't require you to download the fonts to use them.
 
 ### Imagery
 
