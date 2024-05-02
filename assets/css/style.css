@@ -123,6 +123,13 @@ nav > a:hover {
     text-transform: uppercase;
     margin-right: 20px;
 }
+
+.aboutus {
+    margin-left: 20px;
+    text-align: center !important;
+    text-transform: uppercase !important;
+    margin-right: 20px;
+}
   
   #owners {
     margin-left: 20px;
@@ -233,12 +240,13 @@ ul {
     border-color: #38450f;
 }
 
-.custom-checkbox .form-check-input:checked~.form-check-label::before,
+
+/*.custom-checkbox .form-check-input:checked~.form-check-label::before,
 .custom-checkbox .form-check-input:checked~.form-check-label::after {
     background-color:#38450f; 
     border-color: #38450f;
     /* this background image SVG is just a white circle, you can replace it with any valid SVG code */
-    background-image: url(data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'%3E%3Ccircle r='3' fill='%23fff'/%3E%3C/svg%3E); 
+    /*background-image: url(data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'%3E%3Ccircle r='3' fill='%23fff'/%3E%3C/svg%3E); 
     border-radius: 50%;
 }
 
@@ -246,7 +254,7 @@ ul {
     color: #fff;
     background-color:#38450f;
     border-color: #38450f;
-}
+} */
 
 .btn-primary {
     color: #fff;
