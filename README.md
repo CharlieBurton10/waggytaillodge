@@ -1,8 +1,10 @@
-# PROJECT NAME TO GO HERE
+# Waggy Tail Lodge
 
-👩🏻‍💻 View an example of this section [here](https://github.com/kera-cudmore/Bully-Book-Club#bully-book-club-website)
+👩🏻‍💻 View an example of this section [here](https://github.com/.......
 
-Add a Blurb about the site here, what does it do, why did you build it?
+Waggy Tail Lodge was created for a Dog Day and Boarding facility in Somerset, that currently only had a Facebook page and are looking to expand their online presents.
+
+
 
 Add an image of the finished site here. I like to use [amiresponsive](https://ui.dev/amiresponsive) to get an image of my site on all device sizes, and amiresponsive allows you to click links on the page and scroll, so each device can show a different element of your site.
 
@@ -15,6 +17,7 @@ If you want to add optional [shields.io](https://shields.io) badges to your READ
 ## CONTENTS
 
 * [User Experience](#user-experience-ux)
+  * [Intitial Discussion](#intitial-discussion)
   * [User Stories](#user-stories)
 
 * [Design](#design)
@@ -50,11 +53,37 @@ If you want to add optional [shields.io](https://shields.io) badges to your READ
 
 ## User Experience (UX)
 
-👩🏻‍💻 View an example of a completed user experience section [here](https://github.com/kera-cudmore/Bully-Book-Club#user-experience-ux)
+### Intitial Discussion
+Waggy Tail Lodge have decide to expand their customer base with a website. They want a website to make a better customer experience and to help attract new customers. They also want to move their booking system online instead of customers phoning there booking through.
+
+#### Key information for the site
+* What are the facilities.
+* About the owners.
+* Testimonials from current customers.
+* Information on services and prices
+* Contact and location details.
+* Online booking system.
 
 ### User Stories
 
-Add your user stories here. You want to include first time visitors and returning visitors here as a minimum. Think about each group, and the experience and journey you want them to have on your site. It really helps to think about this before you start coding, and will really help with creating your wireframes.
+#### Client Goals
+
+* To be able to view the site on a range of device sizes.
+* To make it easy for potential customers to find out what services they offer.
+* To make it clear for current customers on updated prices 
+* To allow customers to book online, to make the owners time more efficient.
+
+#### First Time Visitor Goals
+
+* I want to find out what is Bully Book Club and how I can take part.
+* I want to be able to navigate the site easily to find information.
+* I want to be able to find their Instagram profile.
+
+#### Returning Visitor Goals
+
+* I want to find up to date information on what the book club is reading.
+* I want to be able to easily contact the book club with questions I might have.
+
 
 ## Design
 
