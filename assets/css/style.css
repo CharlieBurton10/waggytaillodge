@@ -49,10 +49,6 @@ h1{
     background-position: center;
     background-repeat: no-repeat;
     border: none;
-    background-color: var(--black);
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out; 
 }
 
 .logo {
@@ -62,9 +58,6 @@ h1{
     background-size: contain;
     min-height: 100px;
     margin: 25px;
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out; 
 }
 
 .text-center {
