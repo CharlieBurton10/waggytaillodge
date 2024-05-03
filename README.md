@@ -99,7 +99,7 @@ The website uses a palette of shades of green, to imitate the grass that the dog
 
 ### Typography
 
-I have used EB Garamond from Google Fonts for this website, as it connected with the Logo. It is a serif font.
+I have used EB Garamond from Google Fonts for this website. It is a serif font.
 
 ![EB Garamond Font](docs/font.png)
 
