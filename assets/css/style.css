@@ -216,6 +216,10 @@ ul {
 }
 
 /*------------------------------------------ Book Now! */
+.modalbg {
+    background-color: #7d875d !important;
+}
+
 *.custom-radio .custom-control-input:checked~.custom-control-label::before,
 .custom-radio .custom-control-input:checked~.custom-control-label::after {
     background-color:#38450f; 
