@@ -73,7 +73,6 @@ nav {
     margin-top: 50px;
     font-size: 20px;
     text-align: right;
-    
 }
 
 .nav-item a {
@@ -177,7 +176,6 @@ text-align: center;
     margin-top: 2px;
 } 
 
-git
 
 /*------------------------------------------ Our services */
 
@@ -203,6 +201,16 @@ ul {
 }
 
 /*------------------------------------------ Contact */
+
+.line-height {
+    line-height: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.fa {
+    margin-bottom: 10px;
+}
 
 .faq {
     background-color: #38450f !important;
@@ -330,5 +338,10 @@ footer > p {
   footer > span {
     margin-right: 10px;
   }
+  nav {
+    margin-top: 20px;
+    font-size: 16px;
+    text-align: right;
+}
 
 }
