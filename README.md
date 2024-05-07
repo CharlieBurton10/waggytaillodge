@@ -117,6 +117,14 @@ Some other options include [Figma](https://www.figma.com/), [AdobeXD](https://ww
 
 ## Features
 
+The website is comprised of a home page, our services page, a contact & FAQ page & a book know.
+
+All Pages on the website are responsive and have:
+
+* A favicon in the browser tab.
+
+![Favicon](docs/favicon.png)
+
 👩🏻‍💻 View an example of a completed user experience section [here](https://github.com/kera-cudmore/TheQuizArms#Features)
 
 This section can be used to explain what pages your site is made up of.
