@@ -176,6 +176,8 @@ text-align: center;
     margin-top: 2px;
 } 
 
+git
+
 /*------------------------------------------ Our services */
 
 
@@ -300,18 +302,7 @@ footer > p {
     .review {
         width: auto;
     }
-    .left-review, .right-review {
-        width: 100%;
-        float: left;
-        padding: 0;
-      }
-    
-      .center-image {
-        clear: both;
-        width: 100%;
-        float: left;
-        padding: 0;
-      }
+
 
 }
 
