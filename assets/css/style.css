@@ -296,6 +296,10 @@ footer > p {
     #owners {
         margin: 0;
     }
+
+    .review {
+        width: auto;
+    }
     .left-review, .right-review {
         width: 100%;
         float: left;
