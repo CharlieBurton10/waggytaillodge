@@ -233,24 +233,20 @@ ul {
     border-color: #38450f;
 }
 
-.custom-checkbox .form-check-input:checked~.form-check-label::before,
-.custom-checkbox .form-check-input:checked~.form-check-label::after {
-    background-color:#38450f; 
-    border-color: #38450f;
+input[type="checkbox"] {
+    accent-color: #38450f;
+    color: whitesmoke;
 }
-
-.custom-checkbox .form-check-input:active ~ .form-check-label::before {
-    color: #fff;
-    background-color:#38450f;
-    border-color: #38450f;
-} 
-
-
 .btn-primary {
     color: whitesmoke;
     background-color:#38450f;
     border-color: #38450f;
     margin-bottom: 20px;
+}
+
+.btn-primary:hover {
+    background-color: #7d875d;
+    border-color: #38450f;
 }
 
 
