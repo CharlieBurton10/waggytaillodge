@@ -297,17 +297,13 @@ footer > p {
     }
 
     .logo {
-        height: 75%;
-        width: 75%;
+        height: inherit;
         }
 
     #owners {
         margin: 0;
         justify-content: center;
-    }
-
-    .review {
-        width: auto;
+        margin-top: 5px;
     }
 
 
