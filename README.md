@@ -253,22 +253,39 @@ Use this part of the README to link to your TESTING.md file - you can view the e
 
 ## Credits
 
-👩🏻‍💻 View an example of a completed Credits section [here](https://github.com/kera-cudmore/BookWorm#Credits)
-
-The Credits section is where you can credit all the people and sources you used throughout your project.
-
 ### Code Used
 
-If you have used some code in your project that you didn't write, this is the place to make note of it. Credit the author of the code and if possible a link to where you found the code. You could also add in a brief description of what the code does, or what you are using it for here.
+  * [Tutorial Republic to add pop up box on booknow.html](https://www.tutorialrepublic.com/faq/how-to-align-bootstrap-modal-vertically-center.php)
+  * [w3schools to help with carousel](https://www.w3schools.com/bootstrap/bootstrap_carousel.asp)
 
 ### Content
 
-Who wrote the content for the website? Was it yourself - or have you made the site for someone and they specified what the site was to say? This is the best place to put this information.
+Content for the website was written by myself.
 
 ###  Media
 
-If you have used any media on your site (images, audio, video etc) you can credit them here. I like to link back to the source where I found the media, and include where on the site the image is used.
+#### Header
+[Alexas Fotos](https://www.pexels.com/photo/a-cute-dogs-running-on-green-grass-field-12874286/)
+
+#### About Us
+[Vladimir Konoplev](https://www.pexels.com/photo/couple-with-their-pet-dogs-11885342/)
+
+#### Our Facility
+[Alvan Nee](https://unsplash.com/photos/two-brown-and-white-dogs-running-dirt-road-during-daytime-T-0EW-SEbsE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+[Anna Dudkova](https://unsplash.com/photos/brown-and-white-dog-on-grass-urs_y9NwFcc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+[Ayla Verschueren ](https://unsplash.com/photos/a-brown-and-white-dog-inside-of-a-cage-qvbG3-tZnyc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+[Anthony Duran](https://unsplash.com/photos/black-and-white-american-pitbull-terrier-mix-puppy-on-water-eLUBGqKGdE4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+[Gary Lee](https://unsplash.com/photos/a-dog-laying-in-the-grass-next-to-a-tennis-ball-4EEmLlEZdQ8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+#### Testimonials
+[Christopher Campbell](https://unsplash.com/photos/shallow-focus-photography-of-woman-outdoor-during-day-rDEOVtE7vOs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+[Y_K](https://unsplash.com/photos/woman-standing-on-concrete-stair-uZCY6vjHGmE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+[Samanta Barba Alcalá](https://unsplash.com/photos/man-taking-selfie-wearing-white-dress-shirt-QwNUkiDxjbo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+[Carly Rae Hobbins](https://unsplash.com/photos/woman-riding-on-back-of-man-zNHOIzjJiyA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+#### Our Services
+[Janosch Diggelmann](https://unsplash.com/photos/black-and-white-short-coated-small-dog-on-blue-and-white-textile-6mNIZRnTSRE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
   
 ###  Acknowledgments
 
-If someone helped you out during your project, you can acknowledge them here! For example someone may have taken the time to help you on slack with a problem. Pop a little thank you here with a note of what they helped you with (I like to try and link back to their GitHub or Linked In account too). This is also a great place to thank your mentor and tutor support if you used them.
+I would like to thank my Code Institute Mentor, Can Sucullu for his helpful feedback and Tutor support at Code Institute.
