@@ -114,7 +114,7 @@ Wireframes were created for mobile, tablet and desktop.
 
 ## Features
 
-The website is comprised of a home page, our services page, a contact & FAQ page & a book know.
+The website is comprised of a home page, our services page, a contact & FAQ page & a book now.
 
 ![Nav Wireframe](wireframe/nav.png)
 
@@ -123,6 +123,20 @@ All Pages on the website are responsive and have:
 * A favicon in the browser tab.
 
 ![Favicon](docs/favicon.png)
+
+* All Pages on the website have:
+
+  * To the left of the site is their logo. To the right of the navigation bar are the links to the websites pages. 
+
+![Logo and Nav](docs/logonav.png)
+
+  * In the middle is the Title and tag line.
+
+![Title](docs/title.png)
+
+  * A footer which contains social media icon links to instagram and goodreads. There is also an envelope icon which takes the user to the contact us page. Icons were used to keep the footer clean and because they are universally recognisable.
+
+![Footer](docs/footer.png)
 
 👩🏻‍💻 View an example of a completed user experience section [here](https://github.com/kera-cudmore/TheQuizArms#Features)
 
