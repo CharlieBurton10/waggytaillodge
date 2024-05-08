@@ -172,7 +172,10 @@ All Pages on the website are responsive and have:
 
 ### Accessibility
 
-I have used the alt attirbutes on images and made sure there is colour contrast on the site. I have also used semantic HTML and a hover state on all buttons on the site to make it clear to the user if they are hovering over a button.
+ * I have used the alt attirbutes on images.
+ * I have made sure there is colour contrast on the site. 
+ * I have used semantic HTML. 
+ * I have used a hover state on all buttons on the site to make it clear to the user if they are hovering over a button.
 
 ## Technologies Used
 
@@ -206,11 +209,16 @@ I have used the alt attirbutes on images and made sure there is colour contrast 
 
 ## Deployment & Local Development
 
-👩🏻‍💻 View an example of a completed Deployment & Local Development section [here](https://github.com/kera-cudmore/TheQuizArms#Deployment)
-
 ### Deployment
 
-Include instructions here on how to deploy your project. For your first project you will most likely be using GitHub Pages.
+Github Pages was used to deploy the live website. The instructions to achieve this are below:
+
+1. Log in to Github.
+2. Find the repository for this project, waggytaillodge.
+3. Click on the Settings button.
+4. Click on the Pages button in the left hand side bar.
+5. In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
+6. Click Save. Your live Github Pages site is now deployed at the URL shown.
 
 ### Local Development
 
@@ -218,11 +226,22 @@ The local development section gives instructions on how someone else could make 
 
 #### How to Fork
 
-Place instructions on how to fork your project here.
+To fork waggytaillodge repository:
+
+1. Log in to Github.
+2. Go to the repository for this project, CharlieBurton10/waggytaillodge
+3. Click the Fork button at the top of the page between Watch and Starred.
 
 #### How to Clone
 
-Place instructions on how to clone your project here.
+To clone waggytaillodge repository:
+
+1. Log in to Github.
+2. Go to the repository for this project, CharlieBurton10/waggytaillodge
+3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal and then enter.
+6. Then paste link from step 3 ($ git clone https://github.com/CharlieBurton10/waggytaillodge) and then press enter.
 
 ## Testing
 
