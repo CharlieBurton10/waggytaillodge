@@ -118,6 +118,8 @@ The website is comprised of a home page, our services page, a contact & FAQ page
 
 ![Nav Wireframe](wireframe/nav.png)
 
+### General features on each page
+
 All Pages on the website are responsive and have:
 
 * A favicon in the browser tab.
@@ -128,41 +130,49 @@ All Pages on the website are responsive and have:
 
   * To the left of the site is their logo. To the right of the navigation bar are the links to the websites pages. 
 
-![Logo and Nav](docs/logonav.png)
+    ![Logo and Nav](docs/logonav.png)
 
   * In the middle is the Title and tag line.
 
-![Title](docs/title.png)
+    ![Title](docs/title.png)
 
-  * A footer which contains social media icon links to instagram and goodreads. There is also an envelope icon which takes the user to the contact us page. Icons were used to keep the footer clean and because they are universally recognisable.
+  * A footer which contains social media icon links to Facebook, Instagram and Twitter. 
 
-![Footer](docs/footer.png)
+    ![Footer](docs/footer.png)
 
-👩🏻‍💻 View an example of a completed user experience section [here](https://github.com/kera-cudmore/TheQuizArms#Features)
+* Home Page
 
-This section can be used to explain what pages your site is made up of.
+  * About Us - A photo and introduction to the owners.
+  * Our Facility - A carousel of photos that shows the facilities, followed by a description.
+  * Testimonals - Four reviews with photos of the indiviuals.
 
-### General features on each page
+* Our Services
 
-If there is a feature that appears on all pages of your site, include it here. Examples of what to include would the the navigation, a footer and a favicon.
+  * Day Care - a description on what is on offer.
+  * Boarding Care - a description on what is on offer.
+  * Daily Routine - a table with a daily routine.
+  * Price List - a list of prices.
+  * Special Offers - a description of special offers.
 
-I then like to add a screenshot of each page of the site here, i use [amiresponsive](https://ui.dev/amiresponsive) which allows me to grab an image of the site as it would be displayed on mobile, tablet and desktop, this helps to show the responsiveness of the site.
+* Contact & FAQ
+  * Contact details - including address, phone numbers and email.
+  * Location - with a link to google maps.
+  * FAQ - a dropdown of frequent asked questions.
+
+* Book Now!
+  * Subscribe to our Newsletter - pop up box with name and email to submit.
+  * Form - for booking Day, Boarding or a Trial.
 
 ### Future Implementations
 
-What features would you like to implement in the future on your site? Would you like to add more pages, or create login functionality? Add these plans here.
+* Link the website to a booking system database to help save customer details.
+* Create a login for customers.
+* To be able to give a live calender with availbility for automatic confirmation.
+* Being able to take payments and desposits for the booking.
 
 ### Accessibility
 
-Be an amazing developer and get used to thinking about accessibility in all of your projects!
-
-This is the place to make a note of anything you have done with accessibility in mind. Some examples include:
-
-Have you used icons and added aria-labels to enable screen readers to understand these?
-Have you ensured your site meets the minimum contrast requirements?
-Have you chosen fonts that are dyslexia/accessible friendly?
-
-Code Institute have an amazing channel for all things accessibility (a11y-accessibility) I would highly recommend joining this channel as it contains a wealth of information about accessibility and what we can do as developers to be more inclusive.
+I have used the alt attirbutes on images and made sure there is colour contrast on the site. I have also used semantic HTML and a hover state on all buttons on the site to make it clear to the user if they are hovering over a button.
 
 ## Technologies Used
 
@@ -170,7 +180,7 @@ Code Institute have an amazing channel for all things accessibility (a11y-access
 
 ### Languages Used
 
-Make a note here of all the languages used in creating your project. For the first project this will most likely just be HTML & CSS.
+* HTML and CSS were used to create this website.
 
 ### Frameworks, Libraries & Programs Used
 
