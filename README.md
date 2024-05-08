@@ -1,14 +1,10 @@
 # Waggy Tail Lodge
 
-👩🏻‍💻 View an example of this section [here](https://github.com/.......
-
 Waggy Tail Lodge was created for a Dog Day and Boarding facility in Somerset, that currently only had a Facebook page and are looking to expand their online presents.
 
+![Waggy Tail Lodge Website shown on a range of devices](docs/responsivehome.png)
 
-
-Add an image of the finished site here. I like to use [amiresponsive](https://ui.dev/amiresponsive) to get an image of my site on all device sizes, and amiresponsive allows you to click links on the page and scroll, so each device can show a different element of your site.
-
-Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
+[View Waggy Tail Lodge Website](https://charlieburton10.github.io/waggytaillodge/index.html)
 
 If you want to add optional [shields.io](https://shields.io) badges to your README, I like to add them to this section.
 
@@ -105,19 +101,22 @@ I have used EB Garamond from Google Fonts for this website. It is a serif font.
 
 ### Imagery
 
-All imagery used within the site has been chosen to showcase the Waggy Tail Lodge. I created a new logo for the owners, as they asked for it to have a more modern look.
+All imagery used within the site has been chosen to showcase the Waggy Tail Lodge. I created a new logo for the owners, as they asked for it to have a more modern look. I have credited these at the end.
 
 ### Wireframes
 
-Add the images or links for your wireframes here.
+Wireframes were created for mobile, tablet and desktop.
 
-There are lots of different options to create your wireframes - Code Institute students can access [Balsamiq](https://balsamiq.com/) as part of the course.
-
-Some other options include [Figma](https://www.figma.com/), [AdobeXD](https://www.adobe.com/products/xd.html), [Sketch](https://www.sketch.com/?utm_source=google&utm_medium=cpc&adgroup=uxui&device=c&matchtype=e&utm_campaign=ADDICTMOBILE_SKETCH_GAD_DG_UK_T1_ALWAYS-ON_S_TRF_PROS_BRAND&utm_term=sketch&utm_source=google&utm_medium=cpc&utm_content=TOF_BRND__generic&hsa_acc=8710913982&hsa_cam=16831089317&hsa_grp=134620695759&hsa_ad=592060065319&hsa_src=g&hsa_tgt=kwd-14921750&hsa_kw=sketch&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwr4eYBhDrARIsANPywCjRIFn93DMezYnsyE5Fic_8l8kynJtut0GYMU01TiohHjwziFtlH0gaAhteEALw_wcB) and [Mockup](https://apps.apple.com/us/app/mockup-sketch-ui-ux/id1527554407) to name just a few! Or you can even go old school and get those wireframes completed using pen and paper. Just snap an image of the completed wireframes to add the images to the README.
+![Home Page Wireframe](wireframe/home.png)
+![Our Services Page Wireframe](wireframe/ourservices.png)
+![Contact & FAQ Page Wireframe](wireframe/contact.png)
+![Book Now! Page Wireframe](wireframe/booknow.png)
 
 ## Features
 
 The website is comprised of a home page, our services page, a contact & FAQ page & a book know.
+
+![Nav Wireframe](wireframe/nav.png)
 
 All Pages on the website are responsive and have:
 
