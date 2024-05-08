@@ -265,27 +265,27 @@ Content for the website was written by myself.
 ###  Media
 
 #### Header
-[Alexas Fotos](https://www.pexels.com/photo/a-cute-dogs-running-on-green-grass-field-12874286/)
+* [Alexas Fotos](https://www.pexels.com/photo/a-cute-dogs-running-on-green-grass-field-12874286/)
 
 #### About Us
-[Vladimir Konoplev](https://www.pexels.com/photo/couple-with-their-pet-dogs-11885342/)
+* [Vladimir Konoplev](https://www.pexels.com/photo/couple-with-their-pet-dogs-11885342/)
 
 #### Our Facility
-[Alvan Nee](https://unsplash.com/photos/two-brown-and-white-dogs-running-dirt-road-during-daytime-T-0EW-SEbsE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
-[Anna Dudkova](https://unsplash.com/photos/brown-and-white-dog-on-grass-urs_y9NwFcc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
-[Ayla Verschueren ](https://unsplash.com/photos/a-brown-and-white-dog-inside-of-a-cage-qvbG3-tZnyc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
-[Anthony Duran](https://unsplash.com/photos/black-and-white-american-pitbull-terrier-mix-puppy-on-water-eLUBGqKGdE4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
-[Gary Lee](https://unsplash.com/photos/a-dog-laying-in-the-grass-next-to-a-tennis-ball-4EEmLlEZdQ8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+* [Alvan Nee](https://unsplash.com/photos/two-brown-and-white-dogs-running-dirt-road-during-daytime-T-0EW-SEbsE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+* [Anna Dudkova](https://unsplash.com/photos/brown-and-white-dog-on-grass-urs_y9NwFcc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+* [Ayla Verschueren ](https://unsplash.com/photos/a-brown-and-white-dog-inside-of-a-cage-qvbG3-tZnyc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+* [Anthony Duran](https://unsplash.com/photos/black-and-white-american-pitbull-terrier-mix-puppy-on-water-eLUBGqKGdE4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+* [Gary Lee](https://unsplash.com/photos/a-dog-laying-in-the-grass-next-to-a-tennis-ball-4EEmLlEZdQ8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 #### Testimonials
-[Christopher Campbell](https://unsplash.com/photos/shallow-focus-photography-of-woman-outdoor-during-day-rDEOVtE7vOs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
-[Y_K](https://unsplash.com/photos/woman-standing-on-concrete-stair-uZCY6vjHGmE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
-[Samanta Barba Alcalá](https://unsplash.com/photos/man-taking-selfie-wearing-white-dress-shirt-QwNUkiDxjbo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
-[Carly Rae Hobbins](https://unsplash.com/photos/woman-riding-on-back-of-man-zNHOIzjJiyA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+* [Christopher Campbell](https://unsplash.com/photos/shallow-focus-photography-of-woman-outdoor-during-day-rDEOVtE7vOs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+* [Y_K](https://unsplash.com/photos/woman-standing-on-concrete-stair-uZCY6vjHGmE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+* [Samanta Barba Alcalá](https://unsplash.com/photos/man-taking-selfie-wearing-white-dress-shirt-QwNUkiDxjbo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+* [Carly Rae Hobbins](https://unsplash.com/photos/woman-riding-on-back-of-man-zNHOIzjJiyA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 #### Our Services
-[Janosch Diggelmann](https://unsplash.com/photos/black-and-white-short-coated-small-dog-on-blue-and-white-textile-6mNIZRnTSRE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+* [Janosch Diggelmann](https://unsplash.com/photos/black-and-white-short-coated-small-dog-on-blue-and-white-textile-6mNIZRnTSRE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
   
 ###  Acknowledgments
 
-I would like to thank my Code Institute Mentor, Can Sucullu for his helpful feedback and Tutor support at Code Institute.
+I would like to thank my Code Institute Mentor, Can Sucullu for his helpful feedback and Tutor Support at Code Institute.
