@@ -271,7 +271,7 @@ The W3C validator was used to validate the HTML on all pages of the website. It 
 1. The About Us section on the home page was not fitting properly when it was on a medium screen. 
 2. The images when on a medium device were overlapping with text. I fixed this by changing the bootstrap grid system from small to medium.
 ![Responsive Issue](docs/testing/responsiveissue.png) ![Resolved Issue](docs/testing/resolvedissue.png)
-3. 
+3. The Google Maps I have inserted a new link to clear the error and put it into a div instead section. 
 
 ### Known Bugs
 
