@@ -251,7 +251,7 @@ Testing has been on going throughout the build with Chrome developer tools.
 
 My mentor on our mid project meeting discussed: 
 * My image files were to big for the website, so I have resized and croped to the aspect ratio and then optimized them.
-* There was problem that some of the images overlapped when checking that pages of the Website were responsive. This issue is documented as 1. under Solved Bugs.
+* There was problem that some of the images overlapped when checking that pages of the Website were responsive. This issue is documented as 2. under Solved Bugs.
 
 ### W3C Validator
 
@@ -259,7 +259,8 @@ The W3C validator was used to validate the HTML on all pages of the website.
 
 
 ### Solved Bugs
-1. The images when on a medium device were overlapping with text. I fixed this by changing the bootstrap grid system from small to medium.
+1. The About Us section on the home page was not fitting properly when it was on a medium screen. 
+2. The images when on a medium device were overlapping with text. I fixed this by changing the bootstrap grid system from small to medium.
 ![Responsive Issue](docs/Testing/responsiveissue.png) ![Resolved Issue](docs/Testing/resolvedissue.png)
 
 ### Known Bugs

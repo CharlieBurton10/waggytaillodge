@@ -136,8 +136,13 @@ nav > a:hover {
 
 /*------------------------------------------ Our Facility */
 
+#myCarousel {
+    height: auto;
+    width: auto;
+    overflow: hidden;
+  }
 
-  .carousel-fade .carousel-item {
+.carousel-fade .carousel-item {
 	opacity: 0;
 	transition-duration: .1s;
 	transition-property: opacity;
@@ -314,6 +319,10 @@ footer > p {
         margin: 0;
         justify-content: center;
         margin-top: 5px;
+    }
+
+    .carousel-fade .carousel-item {
+        object-fit: contain;
     }
 }
 
