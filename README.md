@@ -250,8 +250,45 @@ To clone waggytaillodge repository:
 Testing has been on going throughout the build with Chrome developer tools.
 
 My mentor on our mid project meeting discussed: 
-* My image files were to big for the website, so I have resized and crop to the aspect ratio and then optimize them.
-* There was problem that some of the images overlapped when checking that pages of the Website were responsive. 
+* My image files were to big for the website, so I have resized and croped to the aspect ratio and then optimized them.
+* There was problem that some of the images overlapped when checking that pages of the Website were responsive. This issue is documented as 1. under Solved Bugs.
+
+### W3C Validator
+
+The W3C validator was used to validate the HTML on all pages of the website.
+
+
+### Solved Bugs
+1. The images when on a medium device were overlapping with text. I fixed this by changing the bootstrap grid system from small to medium.
+![Responsive Issue](docs/Testing/responsiveissue.png) ![Resolved Issue](docs/Testing/resolvedissue.png)
+
+### Known Bugs
+
+Google maps
+
+### User Stories
+
+#### Client Goals
+
+* To be able to view the site on a range of device sizes.
+* To make it easy for potential customers to find out what services they offer.
+* To make it clear for current customers on updated prices.
+* To allow customers to book online, to make the owners time more efficient.
+* To make it user friendly and for all ages.
+
+#### First Time Visitor Goals
+
+* I want to find out what Waggy Tail Lodge offers.
+* I want to be able to navigate the site easily to find information.
+* I want to be able to find their social media pages.
+* I want to be able to book a trial.
+* I want to be able to read about current customers reviews.
+
+#### Returning Visitor Goals
+
+* I want to book online instead of phoning Waggy Tail Lodge - to help with ease.
+* I want to find up-to-date prices and special offers. 
+* I want to be able to easily follow them on social media pages to get dog updates.
 
 ## Credits
 
