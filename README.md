@@ -201,6 +201,8 @@ All Pages on the website are responsive and have:
 
 * [TinyPNG](https://tinypng.com/) To compress images
 
+* [Image Resizer](https://imageresizer.com/)
+
 * [Favicon.io](https://favicon.io/) To create favicon.
 
 * [Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
