@@ -255,13 +255,23 @@ My mentor on our mid project meeting discussed:
 
 ### W3C Validator
 
-The W3C validator was used to validate the HTML on all pages of the website.
+The W3C validator was used to validate the HTML on all pages of the website. It was also used to validate CSS in the style.css file.
 
+[Index Page HTML](docs/testing/w3cindex.png) - Passed but had 2 info points and then corrected them onthe other pages.
+
+[Our Services Page HTML](docs/testing/w3courservices.png) - 1 error on a stray div. Now deleted.
+
+[Contact & FAQ Page HTML](docs/testing/w3ccontact.png) - 1 error and 1 warning for the google map. This is documented as 3. under Solved Bugs.
+
+[Book Now! Page HTML](docs/testing/w3cindex.png) - Passed
+
+[style.css](docs/testing/w3ccss.png) - 1 error on a property that doesn't exist. Now deleted.
 
 ### Solved Bugs
 1. The About Us section on the home page was not fitting properly when it was on a medium screen. 
 2. The images when on a medium device were overlapping with text. I fixed this by changing the bootstrap grid system from small to medium.
-![Responsive Issue](docs/Testing/responsiveissue.png) ![Resolved Issue](docs/Testing/resolvedissue.png)
+![Responsive Issue](docs/testing/responsiveissue.png) ![Resolved Issue](docs/testing/resolvedissue.png)
+3. 
 
 ### Known Bugs
 
