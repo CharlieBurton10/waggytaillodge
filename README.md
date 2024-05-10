@@ -62,7 +62,7 @@ Waggy Tail Lodge have decide to expand their customer base with a website. They 
 
 ### User Stories
 
-#### Client Goals
+#### Owner Goals
 
 * To be able to view the site on a range of device sizes.
 * To make it easy for potential customers to find out what services they offer.
@@ -70,7 +70,7 @@ Waggy Tail Lodge have decide to expand their customer base with a website. They 
 * To allow customers to book online, to make the owners time more efficient.
 * To make it user friendly and for all ages.
 
-#### First Time Visitor Goals
+#### First Time Customers Goals
 
 * I want to find out what Waggy Tail Lodge offers.
 * I want to be able to navigate the site easily to find information.
@@ -78,7 +78,7 @@ Waggy Tail Lodge have decide to expand their customer base with a website. They 
 * I want to be able to book a trial.
 * I want to be able to read about current customers reviews.
 
-#### Returning Visitor Goals
+#### Returning Customers Goals
 
 * I want to book online instead of phoning Waggy Tail Lodge - to help with ease.
 * I want to find up-to-date prices and special offers. 
@@ -257,7 +257,7 @@ My mentor on our mid project meeting discussed:
 
 The W3C validator was used to validate the HTML on all pages of the website. It was also used to validate CSS in the style.css file.
 
-[Index Page HTML](docs/testing/w3cindex.png) - Passed but had 2 info points and then corrected them onthe other pages.
+[Index Page HTML](docs/testing/w3cindex.png) - Passed but had 2 info points and then corrected them on the other pages.
 
 [Our Services Page HTML](docs/testing/w3courservices.png) - 1 error on a stray div. Now deleted.
 
@@ -268,40 +268,55 @@ The W3C validator was used to validate the HTML on all pages of the website. It 
 [style.css](docs/testing/w3ccss.png) - 1 error on a property that doesn't exist. Now deleted.
 
 ### Solved Bugs
-1. The About Us section on the home page was not fitting properly when it was on a medium screen. 
+1. The About Us section on the home page was not fitting properly when it was on a medium screen. So I changed the bootstrap grid system to large.
 2. The images when on a medium device were overlapping with text. I fixed this by changing the bootstrap grid system from small to medium.
 ![Responsive Issue](docs/testing/responsiveissue.png) ![Resolved Issue](docs/testing/resolvedissue.png)
 3. I had adjusted the Google Maps width to 100% to make the page responsive. The error was the % sign on the iframe code. I have reinserted a new link to Google Maps to clear the error and then put a paragraph aboud the iframe to be able to center the map allowing it to be more responsive. For the warning I just changed the section to a div.
 
 ### Known Bugs
 
-On the Chrome developer tool, it comes up with 6 warnings and 28 verbose for the Google Maps link. The 6 warnings are regarding third party cookies will be blocked. The 28 verbose are 
+On the Chrome developer tool, it comes up with 6 warnings and 24 verbose for the Google Maps link. The 6 warnings are regarding third party cookies will be blocked. The 28 verbose are for "Added non-passive event listener to a scroll-blocking event. Consider marking event handler as 'passive' to make the page more responsive." When researching and looking on slack I was unable to find a solution without using JavaScript. As I don't have any experience so far with JavaScript this is currently unable to implement, but would be able to update it in the future.
 
 ![Google Maps Error](docs/testing/googlemapserror.png)
 
-### User Stories
+### Testing User Stories
 
-#### Client Goals
-
-* To be able to view the site on a range of device sizes.
-* To make it easy for potential customers to find out what services they offer.
-* To make it clear for current customers on updated prices.
-* To allow customers to book online, to make the owners time more efficient.
-* To make it user friendly and for all ages.
-
-#### First Time Visitor Goals
+#### First Time Customers Goals
 
 * I want to find out what Waggy Tail Lodge offers.
-* I want to be able to navigate the site easily to find information.
-* I want to be able to find their social media pages.
-* I want to be able to book a trial.
-* I want to be able to read about current customers reviews.
+    * Our Services page explains what the Waggy Tail Lodge offers including prices and specials.
 
-#### Returning Visitor Goals
+* I want to be able to navigate the site easily to find information.
+    * All site navigation is in the top right corner on every page of the website.
+
+    ![Nav bar](docs/logonav.png)
+* I want to be able to find their social media pages.
+    * In the footer on every page sits links to the social media pages.
+
+    ![Social Media links](docs/footer.png)
+* I want to be able to book a trial.
+    * On the Book Now! page this is an option to select what you are booking.
+
+    ![How to book a Trial](docs/testing/trialbooknow.png)
+* I want to be able to read about current customers reviews.
+    * On the Home page there are some testimonials from 4 customers.
+
+    ![Testimonials](docs/testing/testimonials.png)
+
+#### Returning Customer Goals
 
 * I want to book online instead of phoning Waggy Tail Lodge - to help with ease.
+    * On the nav bar is a Book Now! button that takes them to a form to complete with details of the booking.
+
+    ![Book Now form](docs/testing/booknow.png)
 * I want to find up-to-date prices and special offers. 
+    * On the Our Services page, the prices and specials offers sit.
+
+    ![Prices & Special Offers](docs/testing/pricesoffers.png)
 * I want to be able to easily follow them on social media pages to get dog updates.
+    * In the footer on every page sits links to the social media pages.
+
+    ![Social Media links](docs/footer.png)
 
 ## Credits
 
