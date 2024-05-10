@@ -275,7 +275,9 @@ The W3C validator was used to validate the HTML on all pages of the website. It 
 
 ### Known Bugs
 
-Google maps
+On the Chrome developer tool, it comes up with 6 warnings and 28 verbose for the Google Maps link. The 6 warnings are regarding third party cookies will be blocked. The 28 verbose are 
+
+![Google Maps Error](docs/testing/googlemapserror.png)
 
 ### User Stories
 
