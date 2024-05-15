@@ -166,6 +166,7 @@ All Pages on the website are responsive and have:
 ### Future Implementations
 
 * Link the website to a booking system database to help save customer details.
+* Link the website to a newsletter database.
 * Create a login for customers.
 * To be able to give a live calender with availbility for automatic confirmation.
 * Being able to take payments and desposits for the booking.
@@ -320,7 +321,15 @@ On the Chrome developer tool, it comes up with 6 warnings and 24 verbose for the
 
 ### Further Testing
 
- * The website was tested on Google Chrome, Safari,and Microsoft Edge browsers
+ * The website was tested on Google Chrome, Safari and Microsoft Edge browsers.
+ * The website was tested on multiple devices: Desktop, Mackbook 14inch, iPad Pro and iPhone 14.
+ * All browsers and devices were tested on all pages to make sure all the pages and links are working properly.
+
+ #### Testing Forms
+
+ 1. Tested the Subscribe to our Newsletter and Book Now! forms and both need linking to a database.
+ 2. I tried to test the Book Now! form it requires one of the custom radio buttons to be selected, and all other fields to be completed to be able to submit the form, except 2nd Dog Name and 3rd Dog Name as not every customer will be checking in more than 1 dog.
+
 
 ## Credits
 
@@ -359,4 +368,6 @@ Content for the website was written by myself.
   
 ###  Acknowledgments
 
-I would like to thank my Code Institute Mentor, Can Sucullu for his helpful feedback and Tutor Support at Code Institute.
+ * My Code Institute Mentor, Can Sucullu for his helpful feedback 
+ * Tutor Support at Code Institute.
+ * [Kera Cudmore](https://github.com/kera-cudmore) - For her readme-examples on Creating your first ReadMe.
