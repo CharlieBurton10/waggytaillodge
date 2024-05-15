@@ -318,6 +318,10 @@ On the Chrome developer tool, it comes up with 6 warnings and 24 verbose for the
 
     ![Social Media links](docs/footer.png)
 
+### Further Testing
+
+ * The website was tested on Google Chrome, Safari,and Microsoft Edge browsers
+
 ## Credits
 
 ### Code Used

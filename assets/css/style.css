@@ -234,6 +234,8 @@ ul {
     color: #38450f !important;
 }
 
+.map iframe, .map object, .map embed { width: 100%; }
+
 /*------------------------------------------ Book Now! */
 .modalbg {
     background-color: #7d875d !important;
@@ -325,6 +327,7 @@ footer > p {
     .carousel-fade .carousel-item {
         object-fit: contain;
     }
+
 }
 
 
